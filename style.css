@@ -88,12 +88,12 @@ h1, p {
 
 /* media quary*/
 
-@media (max-width:400px) {
+@media (max-width:360px) {
     body{
         max-width: 340px;
-        height: auto;
+        overflow: visible;
     }
-    .border{border: 5px white  solid;}
+    .border{border: 5px white  solid;height: auto;border-radius: 3%;}
 
     .image-container{
     }
@@ -113,5 +113,4 @@ h1, p {
 
 
     
-
 }
