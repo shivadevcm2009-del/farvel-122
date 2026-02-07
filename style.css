@@ -88,7 +88,7 @@ h1, p {
 
 /* media quary*/
 
-@media (max-width:360px) {
+@media (max-width:400px) {
     body{
         max-width: 340px;
         height: auto;
@@ -113,4 +113,5 @@ h1, p {
 
 
     
+
 }
