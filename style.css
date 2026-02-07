@@ -91,7 +91,8 @@ h1, p {
 @media (max-width:360px) {
     body{
         max-width: 340px;
-        overflow: visible;
+        overflow-y: visible;
+        overflow-x:hidden;
     }
     .border{border: 5px white  solid;height: auto;border-radius: 3%;height:100%}
 
@@ -114,4 +115,5 @@ h1, p {
 
     
 }
+
 
