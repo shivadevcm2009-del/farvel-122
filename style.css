@@ -93,7 +93,7 @@ h1, p {
         max-width: 340px;
         overflow: visible;
     }
-    .border{border: 5px white  solid;height: auto;border-radius: 3%;}
+    .border{border: 5px white  solid;height: auto;border-radius: 3%;height:100%}
 
     .image-container{
     }
@@ -114,3 +114,4 @@ h1, p {
 
     
 }
+
