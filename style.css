@@ -94,7 +94,7 @@ h1, p {
         overflow-y: visible;
         overflow-x:hidden;
     }
-    .border{border: 5px white  solid;height: auto;border-radius: 3%;height:100%}
+    .border{border: 5px black  solid;height: auto;border-radius: 3%;height:100%}
 
     .image-container{
     }
@@ -115,5 +115,6 @@ h1, p {
 
     
 }
+
 
 
